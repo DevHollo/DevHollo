@@ -1,6 +1,6 @@
 # Coding languages I know
 - Python
-- XML
+- XML (only using it as a config file)
 - HTML (the basics only)
 - Lua (a very tiny bit)
 - Json
