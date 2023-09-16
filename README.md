@@ -1,4 +1,4 @@
-# About Me
+# About Me ![image](https://i.imgur.com/Kbki7oX.png)
 - Age: 13
 - Hobbies: coding, drawing, gaming
 - Timezone: MDT/MST
@@ -40,3 +40,5 @@
 - [ ] Make a VR Game
 - [x] Make a Discord Bot
 - [ ] Make a Python Module
+
+![image](https://i.imgur.com/eyGew84.png)
