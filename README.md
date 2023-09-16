@@ -40,5 +40,3 @@
 - [ ] Make a VR Game
 - [x] Make a Discord Bot
 - [ ] Make a Python Module
-
-![image](https://i.imgur.com/eyGew84.png)
