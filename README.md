@@ -40,3 +40,4 @@
 - [ ] Make a VR Game
 - [x] Make a Discord Bot
 - [ ] Make a Python Module
+- [ ] Make a Coding Language
