@@ -19,7 +19,6 @@
 - [Roblox](https://www.roblox.com/users/511701682/profile)
 - [VRChat](https://vrchat.com/home/user/usr_88ad7354-cf16-463d-8d47-5f281a4a6d2d)
 - [RecNet (RecRoom)](https://rec.net/user/HolloVR)
-- [Furaffinity](https://www.furaffinity.net/user/hollo--)
 - [Reddit](https://www.reddit.com/user/Hollo-_-)
 
 ## Coding languages I know
