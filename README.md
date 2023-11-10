@@ -1,11 +1,10 @@
 # About Me ![image](https://i.imgur.com/Kbki7oX.png)
 - Age: 13
 - Hobbies: coding, drawing, gaming
-- Timezone: MDT/MST
-- Sexuality: Biromantic
+- Timezone: MST
+- Sexuality: Gay/Asexual
 - Gender: Male
 - Pronouns: he/them/theirs/his
-- Furry
 
 # Socials
 - [Discord](https://discord.com/users/878439262138273793)
