@@ -7,12 +7,12 @@
 - Pronouns: he/them/theirs/his
 
 # Socials
-- [Discord](https://discord.com/users/878439262138273793)
+- [Discord](https://discordapp.com/users/878439262138273793)
 - [My Discord Server](https://discord.gg/cfDyJ9suVJ)
-- [Twitter](https://twitter.com/___Hollo___)
+- [Twitter/X](https://x.com/___Hollo___)
 - [Twitch](https://www.twitch.tv/h0llo_)
 - [TikTok](https://www.tiktok.com/@..hollo)
-- [Youtube](https://www.youtube.com/channel/UCQSyz6e1cVKlljS-4SLrV-w)
+- [Youtube](https://www.youtube.com/@HolloDoesStuff)
 - [Scratch](https://scratch.mit.edu/users/HolloTheCoolPumkin/)
 - [Repit](https://replit.com/@HolloDev)
 - [Roblox](https://www.roblox.com/users/511701682/profile)
@@ -22,12 +22,13 @@
 
 ## Coding languages I know
 - Python
-- XML (only using it as a config file)
+- XML (only using it as a config file a very very very very tiny bit)
 - HTML (the basics only)
 - Lua (a very tiny bit)
 - Json
-- CSS (a very very tiny bit)
+- CSS (the basics only)
 - Markdown (the basics only)
+- Elixir (a very very very very tiny bit)
 
 ## My Coding Bucket List
 - [x] Learn Python
