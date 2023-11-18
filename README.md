@@ -1,4 +1,4 @@
-# About Me ![image](https://i.imgur.com/Kbki7oX.png)
+# About Me ![Me](https://i.imgur.com/Kbki7oX.png)
 - Age: 13
 - Hobbies: coding, drawing, gaming
 - Timezone: MST
@@ -34,7 +34,7 @@
 - [x] Learn Python
 - [ ] Learn JavaScript
 - [ ] Lean Java
-- [ ] Make a Website
+- [x] Make a Website (https://games.hollodev.repl.co/home.html)
 - [ ] Make a Successful app/game
 - [ ] Make a VR Game
 - [x] Make a Discord Bot
