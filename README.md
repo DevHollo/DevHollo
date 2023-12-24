@@ -34,7 +34,7 @@
 - [x] Learn Python
 - [ ] Learn JavaScript
 - [ ] Lean Java
-- [x] Make a Website (https://games.hollodev.repl.co/home.html)
+- [x] Make a Website
 - [ ] Make a Successful app/game
 - [ ] Make a VR Game
 - [x] Make a Discord Bot
