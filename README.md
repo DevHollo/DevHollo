@@ -38,5 +38,5 @@
 - [ ] Make a Successful app/game
 - [ ] Make a VR Game
 - [x] Make a Discord Bot
-- [ ] Make a Python Module
+- [x] Make a Python Module
 - [ ] Make a Coding Language
