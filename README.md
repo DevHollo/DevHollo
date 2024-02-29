@@ -7,18 +7,7 @@
 - Pronouns: he/them/theirs/his
 
 # Socials
-- [Discord](https://discordapp.com/users/878439262138273793)
-- [My Discord Server](https://discord.gg/cfDyJ9suVJ)
-- [Twitter/X](https://x.com/___Hollo___)
-- [Twitch](https://www.twitch.tv/h0llo_)
-- [TikTok](https://www.tiktok.com/@..hollo)
-- [Youtube](https://www.youtube.com/@HolloDoesStuff)
-- [Scratch](https://scratch.mit.edu/users/HolloTheCoolPumkin/)
-- [Repit](https://replit.com/@HolloDev)
-- [Roblox](https://www.roblox.com/users/511701682/profile)
-- [VRChat](https://vrchat.com/home/user/usr_88ad7354-cf16-463d-8d47-5f281a4a6d2d)
-- [RecNet (RecRoom)](https://rec.net/user/HolloVR)
-- [Reddit](https://www.reddit.com/user/Hollo-_-)
+See my socials [here](https://devhollo.github.io/@/links)
 
 ## Coding languages I know
 - Python
