@@ -2,7 +2,7 @@
 - Age: 14
 - Hobbies: coding, drawing, gaming
 - Timezone: MST
-- Sexuality: Gay/Asexual
+- Sexuality: Gay/Asexual/Demiromantic
 - Gender: Male
 - Pronouns: he/them/theirs/his
 
