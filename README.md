@@ -2,12 +2,13 @@
 - Age: 14
 - Hobbies: coding, drawing, gaming
 - Timezone: MST
-- Sexuality: Gay/Asexual/Demiromantic
+- Sexuality: Gay/Graysexual/Demiromantic
 - Gender: Male
-- Pronouns: he/them/theirs/his
+- Pronouns: he/him/his
+- Single
 
 # Socials
-See my socials [here](https://devhollo.github.io/@/links)
+See my socials [here](https://devhollo.github.io/links)
 
 ## Coding languages I know
 - Python
