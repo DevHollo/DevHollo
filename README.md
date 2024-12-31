@@ -1,5 +1,5 @@
 # About Me ![Me](https://i.imgur.com/Kbki7oX.png)
-- Age: 14
+- Age: 15
 - Hobbies: coding, drawing, gaming
 - Timezone: MST
 - Sexuality: Gay/Graysexual/Demiromantic
