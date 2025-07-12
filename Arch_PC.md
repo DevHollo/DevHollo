@@ -8,7 +8,7 @@
 - [Arch Linux](https://archlinux.org/download)
 
 ### <b>*</b> Physical Stuff:
-- USB (Atleast 16 GB)
+- USB (Atleast 8 GB)
 
 ### <b>*</b> Packages to install:
 - `iwd` (if it is not installed already)
