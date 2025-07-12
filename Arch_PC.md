@@ -25,9 +25,9 @@
 
 ## Post Install
 ### Do these commands when you get asked if you want to do any post install commands:
-- `sudo pacman -S neofetch`
-- `neofetch`
+- `sudo pacman -S fastfetch`
+- `fastfetch`
 #### You should see something like this after doing that:
-![Arch Neofetch](neofetch-ArchLinux.png)
+![Arch Fastfech](neofetch-ArchLinux.png)
 
 ### (If you code in Python, don't get Visual Studio Code, get <b>[PyCharm](https://www.jetbrains.com/pycharm/)</b> !!)
