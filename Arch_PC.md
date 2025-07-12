@@ -28,6 +28,6 @@
 - `sudo pacman -S fastfetch`
 - `fastfetch`
 #### You should see something like this after doing that:
-![Arch Fastfech](neofetch-ArchLinux.png)
+![Fastfetch](https://raw.githubusercontent.com/DevHollo/DevHollo/refs/heads/main/pfetch-screenfetch-neofetch-fastfetch-imagen-contenido-4-blog-ubunlog-4065787658.jpg)
 
 ### (If you code in Python, don't get Visual Studio Code, get <b>[PyCharm](https://www.jetbrains.com/pycharm/)</b> !!)
