@@ -3,7 +3,7 @@
 ### (<b>*</b>) indicates this is a required part
 
 ###  <b>*</b> Programs/Operating System
-- [Ventoy](https://www.ventoy.net/en/download.html), [balena ectcher](https://www.balena.io/etcher) [rufus](https://rufus.ie)
+- [Ventoy](https://www.ventoy.net/en/download.html), [balena ectcher](https://www.balena.io/etcher), [rufus](https://rufus.ie)
 ##### (I recomend Ventoy because you can have multiple ISOs on 1 USB!)
 - [Arch Linux](https://archlinux.org/download)
 
