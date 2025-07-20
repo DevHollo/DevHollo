@@ -5,7 +5,6 @@
 - Sexuality: Gay/Graysexual/Demiromantic
 - Gender: Male
 - Pronouns: he/him/his
-- Taken since 1/15/2025 <3
 
 # Socials
 See my socials [here](https://devhollo.github.io/links)
